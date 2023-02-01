@@ -1,5 +1,6 @@
 # 𝐴𝑛𝑎𝑙𝑜𝑔 𝑎𝑛𝑑 𝐷𝑖𝑔𝑖𝑡𝑎𝑙 𝑐𝑙𝑜𝑐𝑘
-<img src="https://github.com/KAVIYARASAN-1997/CLOCK/blob/main/Etc/VID_20230131_194541_394.gif">
+<a href="https://kaviyarasan-1997.github.io/CLOCK/">
+<img src="https://github.com/KAVIYARASAN-1997/CLOCK/blob/main/Etc/VID_20230131_194541_394.gif"> </a>
 
 # CHECK ✅ DEMO
 
