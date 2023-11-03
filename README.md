@@ -4,7 +4,7 @@
 
 # CHECK ✅ DEMO
 
-[![TIMER ⏳](https://img.shields.io/badge/LOCK-MODEL-003245?style=flat&labelColor=yellow&logoColor=red&square&logo=C)]([https://kaviyarasan-1997.github.io/CLOCK/](https://infolite-in.github.io/CLOCK/))&nbsp;
+[![TIMER ⏳](https://img.shields.io/badge/LOCK-MODEL-003245?style=flat&labelColor=yellow&logoColor=red&square&logo=C)](https://infolite-in.github.io/CLOCK/)&nbsp;
 
 𝐴𝑛𝑎𝑙𝑜𝑔 𝑎𝑛𝑑 𝐷𝑖𝑔𝑖𝑡𝑎𝑙 𝑐𝑙𝑜𝑐𝑘 𝑤𝑖𝑡ℎ 𝐻𝑇𝑀𝐿, 𝐶𝑆𝑆, 𝑎𝑛𝑑 𝐽𝑎𝑣𝑎𝑆𝑐𝑟𝑖𝑝𝑡
 
