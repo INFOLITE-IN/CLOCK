@@ -85,7 +85,7 @@ section {
 }
 
 .digital-time > span {
-  font-size: 5rem;
+  font-size: 6rem;
 }
 
 .digital-time {
@@ -93,7 +93,7 @@ section {
   display: flex;
   align-items: center;
   font-size: 3rem;
-  width: 300px;
+  width: 280px;
 }
 
 .digital-time > h2,
