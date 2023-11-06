@@ -77,8 +77,8 @@ section {
 .clock-body .dot {
   position: absolute;
   height: 20px;
-  width: 20px;
-  border-radius: 50%;
+  width: 19px;
+  border-radius:45%;
   background: #333;
   animation: move 30s ease infinite;
   border-width: 3px !important;
