@@ -77,15 +77,15 @@ section {
 .clock-body .dot {
   position: absolute;
   height: 20px;
-  width: 22px;
-  border-radius:55%;
+  width: 20px;
+  border-radius:50%;
   background: #333;
   animation: move 30s ease infinite;
   border-width: 3px !important;
 }
 
 .digital-time > span {
-  font-size: 6rem;
+  font-size: 5rem;
 }
 
 .digital-time {
